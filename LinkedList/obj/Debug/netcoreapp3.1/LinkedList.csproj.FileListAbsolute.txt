@@ -1,0 +1,13 @@
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csprojAssemblyReference.cache
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+D:\GitRepos\BasicSamples\BasicSamples\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache
