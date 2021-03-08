@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SVLEC6scdPRw214mhcZZxg5YJm+HDoSZ/3NxQEnFMkWMXvY2Tpv7E6UCjOCHQAqhIrwX3y6R48uTPmHQoDEW3g==",
+  "dgSpecHash": "oPFV1ATNezl98dGnhk+6+CyhamfupXP/u9w+Kbyh/tLiq3NXKBUlxA+a1r7EVg/j5wwTERDnfwvoE0Js/9GCyQ==",
   "success": true,
-  "projectFilePath": "D:\\GitRepos\\BasicSamples\\LinkedList\\LinkedList.csproj",
+  "projectFilePath": "D:\\GitHubRepos\\BasicSamples\\LinkedList\\LinkedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

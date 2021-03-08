@@ -1,31 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitRepos\\BasicSamples\\LinkedList\\LinkedList.csproj": {}
+    "D:\\GitHubRepos\\BasicSamples\\LinkedList\\LinkedList.csproj": {}
   },
   "projects": {
-    "D:\\GitRepos\\BasicSamples\\LinkedList\\LinkedList.csproj": {
+    "D:\\GitHubRepos\\BasicSamples\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitRepos\\BasicSamples\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "D:\\GitHubRepos\\BasicSamples\\LinkedList\\LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "D:\\GitRepos\\BasicSamples\\LinkedList\\LinkedList.csproj",
-        "packagesPath": "C:\\Users\\e\\.nuget\\packages\\",
-        "outputPath": "D:\\GitRepos\\BasicSamples\\LinkedList\\obj\\",
+        "projectPath": "D:\\GitHubRepos\\BasicSamples\\LinkedList\\LinkedList.csproj",
+        "packagesPath": "C:\\Users\\evren.pehlivan\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHubRepos\\BasicSamples\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\e\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\evren.pehlivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 19.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\.NET Core Desktop Libraries\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -58,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
